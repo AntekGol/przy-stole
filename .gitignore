@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build
+frontend/dist/
+
+# Database
+backend/data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Other
+local-assets/
+.DS_Store
