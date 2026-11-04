@@ -50,7 +50,7 @@ export default function App() {
         <a href="#menu" className="button mt-8 inline-block">Zobacz menu</a>
         </div>
         <div className="overflow-hidden rounded-3xl border border-stone-200 bg-stone-900">
-          <img src="/images/menu/ortolana.jpg" alt="Pizza z warzywami na rustykalnym drewnianym stole" className="aspect-[4/3] w-full object-cover md:aspect-[4/5]" />
+          <img src="/images/menu/ortolana.webp" alt="Pizza z warzywami na rustykalnym drewnianym stole" className="aspect-[4/3] w-full object-cover md:aspect-[4/5]" />
         </div>
       </section>
       <section id="menu" className="border-y border-stone-200 bg-white py-16">
@@ -78,11 +78,11 @@ export default function App() {
         <p className="mt-3 text-stone-600">Przy barze czy przy stole — rozgość się po swojemu.</p>
         <div className="mt-8 grid gap-6 md:grid-cols-[1.4fr_1fr]">
           <figure>
-            <img src="/images/interior/bar.jpg" alt="Goście przy barze z drewnianym blatem i półkami z butelkami" className="aspect-[4/3] w-full rounded-2xl object-cover md:aspect-auto md:h-[440px]" />
+            <img src="/images/interior/bar.webp" alt="Goście przy barze z drewnianym blatem i półkami z butelkami" className="aspect-[4/3] w-full rounded-2xl object-cover md:aspect-auto md:h-[440px]" />
             <figcaption className="mt-3 text-sm text-stone-600">Przy barze</figcaption>
           </figure>
           <figure>
-            <img src="/images/interior/sala.jpg" alt="Jasna sala restauracyjna z dużymi oknami, stolikami i drewnianą podłogą" className="aspect-[4/5] w-full rounded-2xl object-cover md:aspect-auto md:h-[440px]" />
+            <img src="/images/interior/sala.webp" alt="Jasna sala restauracyjna z dużymi oknami, stolikami i drewnianą podłogą" className="aspect-[4/5] w-full rounded-2xl object-cover md:aspect-auto md:h-[440px]" />
             <figcaption className="mt-3 text-sm text-stone-600">Przy wspólnym stole</figcaption>
           </figure>
         </div>
